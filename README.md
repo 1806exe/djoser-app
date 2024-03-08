@@ -1,6 +1,3 @@
-Certainly! Here's the README content in Markdown format that you can directly paste into your `README.md` file:
-
-```markdown
 # Django Users App with Djoser for Token Authentication
 
 ## Overview
